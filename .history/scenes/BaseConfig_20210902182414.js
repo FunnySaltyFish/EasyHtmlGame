@@ -1,0 +1,2 @@
+let GAME_WIDTH = 800;
+let GAME_HEIGHT = 600;
